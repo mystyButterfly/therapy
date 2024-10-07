@@ -4,4 +4,5 @@ The activated account
 test@mail.com pwd:123
 
 This how looks admin's page.
-![adminspage](https://github.com/user-attachments/assets/fb22461f-5aa7-4f13-8b97-121117c3a9d1)
+![adminspage](https://github.com/user-attachments/assets/7679e327-69f5-4919-b622-ac2d55bdeb77)
+
