@@ -14,10 +14,10 @@
   </header>
 
 <h2 style="text-align: center;color:blue">Угода користувача</h2>
-<div>
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora vel ducimus corrupti odit repudiandae, quidem quos minima atque cupiditate impedit repellat. Voluptatibus quae eum nesciunt id sint corrupti corporis iure nulla ad tenetur, alias, eveniet harum labore saepe inventore illo aperiam eligendi veritatis deserunt reiciendis fuga suscipit. Voluptatum, quo. Ipsum perferendis nemo incidunt laudantium molestiae. Eius cum repudiandae mollitia consequatur a suscipit nam reiciendis quibusdam! Numquam consequatur at magnam officiis consectetur optio itaque, atque explicabo quo sapiente ipsam corporis odio autem laudantium molestiae deserunt consequuntur dolor tempore praesentium distinctio iure! Delectus, odio? Officia autem repellat nesciunt eos, in aut sunt!
+<div class="navigation-container">
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora vel ducimus corrupti odit repudiandae, quidem quos minima atque cupiditate impedit repellat. Voluptatibus quae eum nesciunt id sint corrupti corporis iure nulla ad tenetur, alias, eveniet harum labore saepe inventore illo aperiam eligendi veritatis deserunt reiciendis fuga suscipit. Voluptatum, quo. Ipsum perferendis nemo incidunt laudantium molestiae. Eius cum repudiandae mollitia consequatur a suscipit nam reiciendis quibusdam! Numquam consequatur at magnam officiis consectetur optio itaque, atque explicabo quo sapiente ipsam corporis odio autem laudantium molestiae deserunt consequuntur dolor tempore praesentium distinctio iure! Delectus, odio? Officia autem repellat nesciunt eos, in aut sunt! <a href="../../index.php">Повернутися на головну сторінку</a>
 </div>
-<a href="../../index.php">Повернутися на головну сторінку</a>
+
 <img src="./cub.png" alt="" style="float: left; width:50px">
 <footer>
   <div>©️ Lorem.com 2024</div>
