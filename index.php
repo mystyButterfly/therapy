@@ -30,8 +30,8 @@ if (isset($_COOKIE['device_id'])) {
   <div id="confirmmodal" class="confirmmodal">
     <div class="confirmmodal-content">
       <img class="confirmlogo" src="./imagesmain/logo.png" alt="">
-      <h3 class="confirmtext">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aliquid nam vel quaerat praesentium repellendus ipsam sequi exercitationem animi necessitatibus dolore facilis laboriosam fugit, soluta ipsa est harum? Magnam dolor iure pariatur, voluptatibus fugit ipsam voluptate nemo aperiam corporis obcaecat similique optio voluptatibus quam nostrum ea praesentium enim quas. Incidunt a molestias voluptates nulla maiores sint facilis et adipisci tenetur ducimus.<a href="./pages/navigation/securitysmall.php">Ознайомитися з Угодою користувача</a></h3><br/>
-      <button id="confirmBtn">Погоджуюся</button>
+      <h3 class="confirmtext">Please be aware that some content has been temporarily removed due to intellectual property considerations. Lorem ipsum, Magnam dolor iure pariatur, voluptatibus fugit ipsam voluptate nemo aperiam corporis obcaecat similique optio voluptatibus quam nostrum ea praesentium enim quas. Incidunt a molestias voluptates nulla maiores sint facilis et adipisci tenetur ducimus. <a href="./pages/navigation/securitysmall.php">Ознайомитися з Угодою користувача</a></h3><br/>
+      <button id="confirmBtn">I agree/Погоджуюся</button>
     </div>
   </div>
 
