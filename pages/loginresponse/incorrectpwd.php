@@ -15,7 +15,7 @@ include("./lrheader.php");
 ?>
 
 <h2 style="text-align: center;color:blue">Помилка</h2>
-<h2>Користувача не знайдено, невірна електронна пошта чи пароль. <a href="../../index.php">На головну</a></h2>
+<h2 class="navigation-container">Користувача не знайдено, невірна електронна пошта чи пароль. <a href="../../index.php">На головну</a></h2>
 </div>
 <footer>
   <div>©️ Lorem.com 2024</div>
