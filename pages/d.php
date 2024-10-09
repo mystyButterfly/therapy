@@ -21,4 +21,5 @@
 
 
 <h2 class="js-logic">[Here was javaScript logic]</h2>
+<p class="js-logic">Please be aware that some content has been temporarily removed due to intellectual property considerations.</p>
 
