@@ -56,8 +56,7 @@ This project is a secure user registration and login web application that utiliz
   - Strict cookie attributes to enhance security against XSS and CSRF.
 
 
-
-This how looks admin's page.
+This is what the admin page looks like
 ![adminspage](https://github.com/user-attachments/assets/1f4ebc5f-e3ef-472d-8e80-05bde304bf7d)
 
 
