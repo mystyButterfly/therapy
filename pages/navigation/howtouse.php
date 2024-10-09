@@ -14,7 +14,7 @@
 include('./header.php')
 ?>
 <h2 style="text-align: center;color:blue">Як користуватися</h2>
-<p>Тут будуть підкази як краще користуватися сайтом.</p>
+<p class="navigation-container">Тут будуть підкази як краще користуватися сайтом.</p>
 <img src="./cub.png" alt="" style="float: left; width:50px">
 </div>
 <footer>
