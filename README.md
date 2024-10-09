@@ -1,6 +1,7 @@
 # Therapy [therapy.great-site.net](https://therapy.great-site.net/)
 A full-stack project to help doctors in their work. Please be aware that some content has been temporarily removed due to intellectual property considerations.
-Create a new account or use an activated one
+
+It is possible to add new data in the Profile section. Create a new account or use an activated one
 test@mail.com pwd:123
 
 ## Project Description
