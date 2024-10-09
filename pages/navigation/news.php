@@ -16,7 +16,7 @@
     ?>
 
     <h2 style="text-align: center;color:blue">Новини</h2>
-    <p>Тут будуть новини.</p>
+    <p class="navigation-container">Тут будуть новини.</p>
     <img src="./cub.png" alt="" style="float: left; width:50px">
   </div>
   <footer>
