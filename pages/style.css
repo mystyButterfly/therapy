@@ -17,6 +17,9 @@ body {
   text-align: center;
   padding-top: 50px;
 }
+.navigation-container{
+  padding: 30px;
+}
 
 .chose-variant {
   display: inline-flex;
