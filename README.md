@@ -56,5 +56,6 @@ This project is a secure user registration and login web application that utiliz
 This project serves as a foundational structure for a user authentication system in a web application. Ideal for learning and understanding concepts of PHP, user sessions, and secure practices in web development, it can also be extended further to accommodate additional features such as password recovery, email confirmation, and more robust profiling based on user roles and permissions.
 
 This how looks admin's page.
-![adminspage](https://github.com/user-attachments/assets/7679e327-69f5-4919-b622-ac2d55bdeb77)
+![adminspage](https://github.com/user-attachments/assets/26840f3b-27fa-4616-b55e-8cc5219cdce9)
+
 
