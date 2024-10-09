@@ -15,7 +15,7 @@ include('./header.php')
 ?>
 
 <h2 style="text-align: center;color:blue">Ціни</h2>
-<p>Тут будуть ціни.</p>
+<p class="navigation-container">Тут будуть ціни.</p>
 <img src="./cub.png" alt="" style="float: left; width:50px"></div>
 <footer>
   <div>©️ Lorem.com 2024</div>
