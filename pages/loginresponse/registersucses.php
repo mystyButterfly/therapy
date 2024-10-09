@@ -15,7 +15,7 @@ include("./lrheader.php");
 ?>
 
 <h2 style="text-align: center;color:blue">Реєстрація успішна</h2>
-<div style="padding: 20px; text-align:center;">Зверніться до адміністратора, щоб активувавти аккаунт. <a href="../navigation/about.php#connectUs">Контакти</a></div>
+<div style="padding: 20px; text-align:center;" class="navigation-container">Зверніться до адміністратора, щоб активувавти аккаунт. <a href="../navigation/about.php#connectUs">Контакти</a></div>
 </div>
 <footer>
   <div>©️ Lorem.com 2024</div>
