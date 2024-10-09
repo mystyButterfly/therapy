@@ -104,6 +104,11 @@ button:hover {
   text-decoration: underline;
   color: blue;
 }
+
+#signUpButton:hover,
+#signInButton:hover {
+  cursor: pointer;
+}
 /* ↑ login */
 /* ↓ main */
 
