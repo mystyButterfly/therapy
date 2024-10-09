@@ -54,9 +54,8 @@ This project is a secure user registration and login web application that utiliz
   - Hashed passwords for user accounts.
   - Prepared statements for SQL queries to avoid SQL injection.
   - Strict cookie attributes to enhance security against XSS and CSRF.
-### Conclusion
 
-This project serves as a foundational structure for a user authentication system in a web application. Ideal for learning and understanding concepts of PHP, user sessions, and secure practices in web development, it can also be extended further to accommodate additional features such as password recovery, email confirmation, and more robust profiling based on user roles and permissions.
+
 
 This how looks admin's page.
 ![adminspage](https://github.com/user-attachments/assets/1f4ebc5f-e3ef-472d-8e80-05bde304bf7d)
