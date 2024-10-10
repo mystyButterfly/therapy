@@ -17,7 +17,7 @@ include("./lrheader.php");
 ?>
 
 <h2 style="text-align: center;color:blue">Помилка</h2>
-<h2 class="navigation-container">Ви увійшли з двох пристрої. Спробуйте це посилання. <a href="../homepage.php">Перевірити чи ви вже ввійшли</a>. Якщо помилка повторюється зробіть наступне:<br/>Вийдіть з інших пристрооїв щоб увійти цього<br/>Звяжіться з адміністратором. <a href="../navigation/about.php#connectUs">Підтримка</a></h2>
+<h2 class="navigation-container">Ви увійшли з двох пристрої. Спробуйте це посилання. <a href="../homepage.php">Перевірити чи ви вже ввійшли</a>. Якщо помилка повторюється зробіть наступне:<br/>Вийдіть з інших пристрооїв щоб увійти з цього<br/>Звяжіться з адміністратором. <a href="../navigation/about.php#connectUs">Підтримка</a></h2>
 </div>
 <footer>
   <div>©️ Lorem.com 2024</div>
