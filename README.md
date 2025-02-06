@@ -2,7 +2,7 @@
 A full-stack project aimed to help doctors in their work. Please be aware that some content has been temporarily removed due to intellectual property considerations.
 
 Create a new account or use an activated one
-test@mail.com pwd:123
+## test@mail.com pwd:123
 
 It is possible to add new data in the Profile section.
 
